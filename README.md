@@ -21,7 +21,11 @@ h. 打到磚塊會發出聲音
   ![lose](https://user-images.githubusercontent.com/122383629/211617843-0a6da537-8963-4b11-9c34-2dc9f0782a2d.jpg)
 ## 使用到的傳感器
 * 按壓鍵* 3 : 左右移動,發射
-* 8X8 RGB 顯示器
+* 8X8 RGB 顯示器 : 顯示遊戲畫面
+* LED燈 : 血量條
+* 七段顯示器 : 顯示累計得分數
+* 蜂鳴器 : 發出聲音
+* 指撥開關* 3 : 開始,重製,調整速度
 ## 程式 input/output 說明
 * input
   * CLK       : 當作除頻器
@@ -32,7 +36,7 @@ h. 打到磚塊會發出聲音
   * throw     : 當球在板子上,丟出球
   * highSpeed : 選擇是否讓球快速地移動(on 為快速移動)
 * output
-  * led : 用來顯示8X8 RGB 顯示器
+  * led : 用來顯示8X8 RGB
   * life : LED燈顯示生命條
   * a,b,c,d,e,f,g : 操作七段顯示器
   * COM : 用來選擇要顯示哪個七段顯示器
