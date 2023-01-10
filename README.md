@@ -21,6 +21,12 @@ h. 打到磚塊會發出聲音
   ![lose](https://user-images.githubusercontent.com/122383629/211617843-0a6da537-8963-4b11-9c34-2dc9f0782a2d.jpg)
 ## 程式 input/output 說明
 * input
-  * CLK : 用來當作除頻器
+  * CLK       : 當作除頻器
+  * reset     : 當死掉時,可以重製位置
+  * start     : 用來啟動或暫停遊戲
+  * left      : 使板子向左移
+  * right     : 使板子向右移
+  * throw     : 當球在板子上,丟出球
+  * highSpeed : 選擇是否讓球快速地移動(on 為快速移動)
 
 
