@@ -21,5 +21,6 @@ h. 打到磚塊會發出聲音
   ![lose](https://user-images.githubusercontent.com/122383629/211617843-0a6da537-8963-4b11-9c34-2dc9f0782a2d.jpg)
 ## 程式 input/output 說明
 * input
+  * CLK : 用來當作除頻器
 
 
