@@ -16,5 +16,6 @@ f. 可手動調整球速 \
 g. 勝利時會顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
 ## 程式 input/output 說明
+*input
 
 
