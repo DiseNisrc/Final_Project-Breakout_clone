@@ -13,7 +13,7 @@ c. 黃色障礙物來阻擋球 \
 d. 每打到磚塊得一分 \
 e. 除原本的球之外，會偶爾出現特殊球(粉紅球)無視障礙物直接打到磚塊 \
 f. 可手動調整球速 \
-g. 勝利時會顯示WIN，輸了會顯示LOSE \
+g. 勝利時會在8x8LED顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
 ## WIN
   ![win](https://user-images.githubusercontent.com/122383629/211617781-c5b47757-f7bc-4e7e-bce1-989e95473028.jpg)  
@@ -29,5 +29,10 @@ h. 打到磚塊會發出聲音
   * throw     : 當球在板子上,丟出球
   * highSpeed : 選擇是否讓球快速地移動(on 為快速移動)
 * output
+  * led : 用來顯示8x8 LED
+  * life : LED燈顯示生命條
+  * a,b,c,d,e,f,g : 操作七段顯示器
+  * COM : 用來選擇要顯示哪個七段顯示器
+  * beep : 蜂鳴器的聲音
 
 
