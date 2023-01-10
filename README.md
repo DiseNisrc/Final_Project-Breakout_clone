@@ -15,6 +15,10 @@ e. 除原本的球之外，會偶爾出現特殊球(粉紅球)無視障礙物直
 f. 可手動調整球速 \
 g. 勝利時會顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
+## WIN
+  ![win](https://user-images.githubusercontent.com/122383629/211617781-c5b47757-f7bc-4e7e-bce1-989e95473028.jpg)  
+## LOSE
+  ![lose](https://user-images.githubusercontent.com/122383629/211617843-0a6da537-8963-4b11-9c34-2dc9f0782a2d.jpg)
 ## 程式 input/output 說明
 * input
 
