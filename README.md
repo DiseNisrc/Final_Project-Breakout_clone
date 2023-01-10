@@ -16,17 +16,5 @@ f. 可手動調整球速 \
 g. 勝利時會顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
 ## 程式 input/output 說明
-module final( \
-	input CLK, reset, start, \
-	output reg [0:27] led, \
-	output reg [4:0] life, \
-	input left, right, \
-	input throw, \
-	input show_two_row, \
-	output testLED, \
-	output reg a,b,c,d,e,f,g, \
-	output reg [0:3] COM, \
-	input highSpeed, \
-	output reg beep \
-); \
+
 
