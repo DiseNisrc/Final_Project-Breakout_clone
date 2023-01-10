@@ -2,8 +2,8 @@
 ### 資工二 110321056 陳冠仲 
 ### 資工二 110321027 張啟廣
 ## 語言環境
-Verilog \
-Quartus 13.1
+* 語言:Verilog \
+* 開發環境:Quartus 13.1
 ## 照片
   ![game](https://user-images.githubusercontent.com/122383629/211610812-e33b9299-2bb5-463a-83ac-d4cdb30b7008.jpg)
 ## 功能說明
@@ -16,6 +16,6 @@ f. 可手動調整球速 \
 g. 勝利時會顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
 ## 程式 input/output 說明
-*input
+* input
 
 
