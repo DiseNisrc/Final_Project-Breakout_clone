@@ -1,7 +1,8 @@
 # Final-project
-<sub> </sub>
+<sub>
 ### 資工二 110321056 陳冠仲 
 ### 資工二 110321027 張啟廣
+  </sub>
 ## 語言環境
 Verilog \
 Quartus 13.1
